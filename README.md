@@ -1,5 +1,6 @@
-# murrayha26
- Coursera Getting and Cleaning Data Programming Assignment
+# Coursera Getting and Cleaning Data Programming Assignment
+ 
+ murrayha26
 
  The script, `run_analysis.R` reads in the processed experiment data and performs a number of steps to get it into summary form.
 
